@@ -237,7 +237,7 @@ allowed_hosts = [
 ]
 
 deps = {
-  'src/brave': "https://github.com/brave/brave-core.git@4807138391822812f6591ff1a56f9a7885706fb0",
+  'src/brave': "https://github.com/brave/brave-core.git@brave-ads",
   'src/chrome/browser/resources/media_router/extension/src':
     Var('chromium_git') + '/media_router.git' + '@' + '475baa8b2eb0a7a9dd1c96c9c7a6a8d9035cc8d7',
 

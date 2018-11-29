@@ -1706,6 +1706,7 @@ jumbo_split_static_library("browser") {
     "//base/allocator:buildflags",
     "//brave/common",
     "//brave/components/brave_rewards/browser",
+    "//brave/components/brave_ads/browser",
     "//brave/components/resources:strings",
     "//cc",
     "//chrome:extra_resources",
